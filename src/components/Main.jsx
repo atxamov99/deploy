@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from '../assets/main_img.png'
 import logos from '../assets/logos.png'
-import icon_left from '../assets/icon_left.png'
+import icon_left from '../assets/icon_l.png'
 import icon_center from '../assets/icon_center.png'
 import icon_right from '../assets/icon_right.png'
 
@@ -28,7 +28,7 @@ function Footer() {
 
           <div className="flex justify-evenly items-center">
                <div className="text-center flex flex-col justify-center items-center mt-[50px] shadow-2xl rounded-2xl p-[20px]">
-                    <img className='w-[100px] h-[100px]' src={icon_left} alt="" />
+                    <img className='w-[100px] h-[100px]' src={icon_l} alt="" />
                     <h2 className='text-[#4D4D4D] text-2xl font-bold m-[10px]'>Membership <br /> Organisations</h2>
                     <p className='text-[#717171]'>Our membership management <br /> software provides full automation of <br /> membership renewals and payments</p>
                </div>
