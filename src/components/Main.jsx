@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from '../assets/main_img.png'
 import logos from '../assets/logos.png'
-import icon_left from '../assets/icon_l.png'
+import icon_left from '../assets/icon-left123.png'
 import icon_center from '../assets/icon_center.png'
 import icon_right from '../assets/icon_right.png'
 
